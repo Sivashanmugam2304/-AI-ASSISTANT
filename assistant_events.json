@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "TEST EVENT",
+    "when": "2025-10-24T13:07:27.771544+00:00",
+    "description": "Smoke test"
+  },
+  {
+    "id": "2",
+    "title": "lab exam",
+    "when": null,
+    "description": "it was important to me"
+  } ,
+    {
+    "id": "2",
+    "title": "viva exam",
+    "when": null,
+    "description": "it was important to me"
+  } ,
+    {
+    "id": "3",
+    "title": "project submission",
+    "when":"2025-10-24T13:07:27.771544+00:00",
+    "description": "it was important to me"
+  }
+]

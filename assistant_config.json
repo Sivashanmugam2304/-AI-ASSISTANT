@@ -1,0 +1,9 @@
+{
+  "thresholds": {
+    "load_avg": 12.0,
+    "mem_used_pct": 85.0,
+    "disk_free_pct": 10.0,
+    "battery_low_pct": 20.0
+  },
+  "monitoring_interval": 30
+}

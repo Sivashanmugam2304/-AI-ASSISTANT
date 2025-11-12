@@ -1,0 +1,623 @@
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-23T16:44:34.495031Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-23T16:44:34.508601Z"}
+{"type": "command", "text": "increase brightness", "timestamp": "2025-10-23T16:44:50.803377Z"}
+{"type": "response", "text": "Increased brightness.", "timestamp": "2025-10-23T16:45:10.020941Z"}
+{"type": "command", "text": "decrease brightness", "timestamp": "2025-10-23T16:45:38.575587Z"}
+{"type": "response", "text": "Decreased brightness.", "timestamp": "2025-10-23T16:45:38.633188Z"}
+{"type": "command", "text": "increase brightness 25 %", "timestamp": "2025-10-23T16:45:46.889029Z"}
+{"type": "response", "text": "Increased brightness.", "timestamp": "2025-10-23T16:45:46.958553Z"}
+{"type": "command", "text": "decrease brightness", "timestamp": "2025-10-23T16:46:42.824973Z"}
+{"type": "response", "text": "Decreased brightness.", "timestamp": "2025-10-23T16:46:42.894812Z"}
+{"type": "command", "text": "decrease brightness 30 %", "timestamp": "2025-10-23T16:46:50.801541Z"}
+{"type": "response", "text": "Decreased brightness.", "timestamp": "2025-10-23T16:46:50.872759Z"}
+{"type": "command", "text": "increase brightness 100%", "timestamp": "2025-10-23T16:47:01.214610Z"}
+{"type": "response", "text": "Increased brightness.", "timestamp": "2025-10-23T16:47:01.281563Z"}
+{"type": "command", "text": "decrease volume 15 %", "timestamp": "2025-10-23T16:47:08.112533Z"}
+{"type": "response", "text": "Volume set to 85 percent.", "timestamp": "2025-10-23T16:47:08.230476Z"}
+{"type": "command", "text": "volume 85%", "timestamp": "2025-10-23T16:48:16.159847Z"}
+{"type": "command", "text": "decrease volume 85 %", "timestamp": "2025-10-23T16:48:20.074577Z"}
+{"type": "response", "text": "Volume set to 0 percent.", "timestamp": "2025-10-23T16:48:20.110407Z"}
+{"type": "command", "text": "increase volume 100%", "timestamp": "2025-10-23T16:48:25.412483Z"}
+{"type": "response", "text": "Volume set to 100 percent.", "timestamp": "2025-10-23T16:48:25.452533Z"}
+{"type": "command", "text": "decrease brightness 50%", "timestamp": "2025-10-23T16:48:31.848485Z"}
+{"type": "response", "text": "Decreased brightness.", "timestamp": "2025-10-23T16:48:31.875501Z"}
+{"type": "command", "text": "create log file", "timestamp": "2025-10-23T16:48:41.749387Z"}
+{"type": "command", "text": "save", "timestamp": "2025-10-23T16:48:51.635808Z"}
+{"type": "command", "text": "log action", "timestamp": "2025-10-23T16:49:05.225538Z"}
+{"type": "command", "text": "save comments", "timestamp": "2025-10-23T16:49:58.973189Z"}
+{"type": "command", "text": "log a successful", "timestamp": "2025-10-23T16:50:43.230300Z"}
+{"type": "command", "text": "log a successful file creation", "timestamp": "2025-10-23T16:50:47.273747Z"}
+{"type": "command", "text": "create log file create file", "timestamp": "2025-10-23T16:51:01.295357Z"}
+{"type": "response", "text": "What would you like to name the file?", "timestamp": "2025-10-23T16:51:01.296944Z"}
+{"type": "response", "text": "I didn't catch the file name. Please try again.", "timestamp": "2025-10-23T16:51:12.621419Z"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-23T16:51:30.180112Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-23T16:51:30.181479Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-23T16:51:31.453569Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-23T16:51:33.346213Z"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-23T16:51:43.930033Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-23T16:51:43.942544Z"}
+{"type": "command", "text": "hello", "timestamp": "2025-10-23T16:51:58.161091Z"}
+{"type": "command", "text": "play music", "timestamp": "2025-10-23T16:52:19.849968Z"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-10-23T16:52:19.853082Z"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-10-23T16:52:28.926847Z"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-23T16:52:35.951687Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-23T16:52:35.952856Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-23T16:52:37.204089Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-23T16:52:39.095939Z"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-10-24T11:53:05.366717Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T11:53:05.377751Z"}
+{"type": "command", "text": "remember", "timestamp": "2025-10-24T11:53:14.200432Z"}
+{"type": "response", "text": "What would you like me to remember? Please state the key, for example: my name.", "timestamp": "2025-10-24T11:53:14.201003Z"}
+{"type": "command", "text": "world full of flowers", "timestamp": "2025-10-24T11:53:36.961188Z"}
+{"type": "response", "text": "What is the value for world full of flowers?", "timestamp": "2025-10-24T11:53:36.962883Z"}
+{"type": "command", "text": "22", "timestamp": "2025-10-24T11:53:47.372439Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T11:53:47.374508Z"}
+{"type": "response", "text": "I will remember world full of flowers as 22.", "timestamp": "2025-10-24T11:53:49.322018Z"}
+{"type": "command", "text": "recall", "timestamp": "2025-10-24T11:53:58.625196Z"}
+{"type": "response", "text": "Which piece of user data would you like me to recall?", "timestamp": "2025-10-24T11:53:58.625814Z"}
+{"type": "command", "text": "22", "timestamp": "2025-10-24T11:54:05.637050Z"}
+{"type": "response", "text": "I do not have that saved.", "timestamp": "2025-10-24T11:54:05.638343Z"}
+{"type": "command", "text": "forget", "timestamp": "2025-10-24T11:54:17.717206Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T11:54:17.718824Z"}
+{"type": "command", "text": "22", "timestamp": "2025-10-24T11:54:23.108791Z"}
+{"type": "response", "text": "No matching user data found to forget.", "timestamp": "2025-10-24T11:54:23.110139Z"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-10-24T11:59:57.501277Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T11:59:57.513975Z"}
+{"type": "command", "text": "remember", "timestamp": "2025-10-24T12:00:08.803302Z"}
+{"type": "response", "text": "What would you like me to remember? Please state the key, for example: my name.", "timestamp": "2025-10-24T12:00:08.804829Z"}
+{"type": "command", "text": "my favourite colour is black and", "timestamp": "2025-10-24T12:00:22.506400Z"}
+{"type": "response", "text": "What is the value for favourite colour black and?", "timestamp": "2025-10-24T12:00:22.509425Z"}
+{"type": "command", "text": "333", "timestamp": "2025-10-24T12:00:32.170587Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:00:32.173184Z"}
+{"type": "action", "action": "remember", "key": "favourite colour black and", "value": "333", "timestamp": "2025-10-24T12:00:34.086142Z"}
+{"type": "response", "text": "I will remember favourite colour black and as 333.", "timestamp": "2025-10-24T12:00:34.086839Z"}
+{"type": "command", "text": "recall", "timestamp": "2025-10-24T12:00:44.131732Z"}
+{"type": "response", "text": "Which piece of user data would you like me to recall?", "timestamp": "2025-10-24T12:00:44.134045Z"}
+{"type": "command", "text": "favourite colour", "timestamp": "2025-10-24T12:00:53.315126Z"}
+{"type": "action", "action": "recall", "key": "favourite colour black and", "matched_with": "favourite colour", "result": "found", "timestamp": "2025-10-24T12:00:53.317093Z"}
+{"type": "response", "text": "That is 333", "timestamp": "2025-10-24T12:00:53.317907Z"}
+{"type": "command", "text": "forgot", "timestamp": "2025-10-24T12:00:59.913164Z"}
+{"type": "command", "text": "forget", "timestamp": "2025-10-24T12:01:08.016293Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T12:01:08.017926Z"}
+{"type": "command", "text": "333", "timestamp": "2025-10-24T12:01:14.850400Z"}
+{"type": "response", "text": "No matching user data found to forget.", "timestamp": "2025-10-24T12:01:14.851294Z"}
+{"type": "action", "action": "forget", "key": "333", "result": "not_found", "timestamp": "2025-10-24T12:01:17.996762Z"}
+{"type": "command", "text": "01 forget 01", "timestamp": "2025-10-24T12:01:36.930311Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T12:01:36.931819Z"}
+{"type": "command", "text": "01", "timestamp": "2025-10-24T12:01:42.804634Z"}
+{"type": "response", "text": "No matching user data found to forget.", "timestamp": "2025-10-24T12:01:42.806707Z"}
+{"type": "action", "action": "forget", "key": "01", "result": "not_found", "timestamp": "2025-10-24T12:01:45.973471Z"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-10-24T12:06:32.679182Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T12:06:32.695943Z"}
+{"type": "command", "text": "remember", "timestamp": "2025-10-24T12:06:42.324043Z"}
+{"type": "response", "text": "What would you like me to remember? Please state the key, for example: my name.", "timestamp": "2025-10-24T12:06:42.325620Z"}
+{"type": "command", "text": "India is a Peninsula", "timestamp": "2025-10-24T12:06:52.478472Z"}
+{"type": "response", "text": "What is the value for india peninsula?", "timestamp": "2025-10-24T12:06:52.482027Z"}
+{"type": "command", "text": "555", "timestamp": "2025-10-24T12:07:01.299117Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:07:01.301728Z"}
+{"type": "action", "action": "remember", "key": "india peninsula", "value": "555", "timestamp": "2025-10-24T12:07:03.242108Z"}
+{"type": "response", "text": "I will remember india peninsula as 555.", "timestamp": "2025-10-24T12:07:03.242609Z"}
+{"type": "command", "text": "forgot India", "timestamp": "2025-10-24T12:07:14.042333Z"}
+{"type": "command", "text": "forget India", "timestamp": "2025-10-24T12:07:17.972930Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T12:07:17.974554Z"}
+{"type": "command", "text": "555", "timestamp": "2025-10-24T12:07:23.609980Z"}
+{"type": "response", "text": "No matching user data found to forget.", "timestamp": "2025-10-24T12:07:23.611863Z"}
+{"type": "action", "action": "forget", "key": "555", "result": "not_found", "candidates": ["your name jarvis", "my name black devil", "world full of flowers", "favourite colour black and", "india peninsula"], "timestamp": "2025-10-24T12:07:26.794833Z"}
+{"type": "command", "text": "remember", "timestamp": "2025-10-24T12:07:44.613949Z"}
+{"type": "response", "text": "What would you like me to remember? Please state the key, for example: my name.", "timestamp": "2025-10-24T12:07:44.616538Z"}
+{"type": "command", "text": "India is India", "timestamp": "2025-10-24T12:07:57.930914Z"}
+{"type": "response", "text": "What is the value for india india?", "timestamp": "2025-10-24T12:07:57.932375Z"}
+{"type": "command", "text": "77", "timestamp": "2025-10-24T12:08:05.204102Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:08:05.206246Z"}
+{"type": "action", "action": "remember", "key": "india india", "value": "77", "timestamp": "2025-10-24T12:08:07.140884Z"}
+{"type": "response", "text": "I will remember india india as 77.", "timestamp": "2025-10-24T12:08:07.141330Z"}
+{"type": "command", "text": "forgot that", "timestamp": "2025-10-24T12:08:20.264257Z"}
+{"type": "command", "text": "forget that", "timestamp": "2025-10-24T12:08:27.845386Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T12:08:27.846703Z"}
+{"type": "command", "text": "77", "timestamp": "2025-10-24T12:08:42.917969Z"}
+{"type": "response", "text": "No matching user data found to forget.", "timestamp": "2025-10-24T12:08:42.919856Z"}
+{"type": "action", "action": "forget", "key": "77", "result": "not_found", "candidates": ["your name jarvis", "my name black devil", "world full of flowers", "favourite colour black and", "india peninsula", "india india"], "timestamp": "2025-10-24T12:08:46.075572Z"}
+{"type": "command", "text": "forgot", "timestamp": "2025-10-24T12:09:03.570574Z"}
+{"type": "command", "text": "forget that", "timestamp": "2025-10-24T12:09:07.718164Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T12:09:07.719842Z"}
+{"type": "command", "text": "India India", "timestamp": "2025-10-24T12:09:14.016564Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:09:14.019161Z"}
+{"type": "action", "action": "forget", "key": "india india", "matched_with": "india india", "result": "removed", "timestamp": "2025-10-24T12:09:15.921784Z"}
+{"type": "response", "text": "I forgot india india.", "timestamp": "2025-10-24T12:09:15.922049Z"}
+{"type": "command", "text": "forgot", "timestamp": "2025-10-24T12:09:29.524407Z"}
+{"type": "command", "text": "forget", "timestamp": "2025-10-24T12:09:34.335532Z"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T12:09:34.336811Z"}
+{"type": "command", "text": "India penin", "timestamp": "2025-10-24T12:09:43.408076Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:09:43.410744Z"}
+{"type": "action", "action": "forget", "key": "india peninsula", "matched_with": "india penin", "result": "removed", "timestamp": "2025-10-24T12:09:45.307562Z"}
+{"type": "response", "text": "I forgot india peninsula.", "timestamp": "2025-10-24T12:09:45.308147Z"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T12:10:16.018903Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T12:10:16.020249Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:10:17.315043Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T12:10:19.208822Z"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-10-24T12:20:33.212562Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T12:20:33.223808Z"}
+{"type": "command", "text": "conversation mode", "timestamp": "2025-10-24T12:20:51.682651Z"}
+{"type": "response", "text": "Starting conversation mode. I'm here to chat — say 'stop conversation' to exit.", "timestamp": "2025-10-24T12:20:51.684285Z"}
+{"type": "response", "text": "Tell me more about your day.", "timestamp": "2025-10-24T12:20:58.387063Z"}
+{"type": "command", "text": "it was", "timestamp": "2025-10-24T12:21:05.196752Z"}
+{"type": "response", "text": "That's interesting — you said: it was. Tell me more.", "timestamp": "2025-10-24T12:21:05.197947Z"}
+{"type": "response", "text": "What's a hobby you've enjoyed recently?", "timestamp": "2025-10-24T12:21:10.509559Z"}
+{"type": "command", "text": "chit chatting with a", "timestamp": "2025-10-24T12:21:19.589030Z"}
+{"type": "response", "text": "That's interesting — you said: chit chatting with a. Tell me more.", "timestamp": "2025-10-24T12:21:19.590481Z"}
+{"type": "response", "text": "Do you have a favorite book or author?", "timestamp": "2025-10-24T12:21:25.145237Z"}
+{"type": "command", "text": "stop conversation", "timestamp": "2025-10-24T12:21:33.239656Z"}
+{"type": "response", "text": "Okay, exiting conversation mode. Back to normal operations.", "timestamp": "2025-10-24T12:21:33.241224Z"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T12:21:44.520236Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T12:21:44.521783Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:21:45.812963Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T12:21:47.726262Z"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T12:50:36.505808Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T12:50:36.518865Z"}
+{"type": "command", "text": "the time", "timestamp": "2025-10-24T12:50:55.338937Z"}
+{"type": "response", "text": "The time is 18:20:55", "timestamp": "2025-10-24T12:50:55.340953Z"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-24T12:51:03.443531Z"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-24T12:51:03.445631Z"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-10-24T12:51:23.845960Z"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-10-24T12:51:33.027154Z"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-10-24T12:52:46.447936Z"}
+{"type": "response", "text": "Battery at 39.0 percent and charging.", "timestamp": "2025-10-24T12:53:35.762267Z"}
+{"type": "response", "text": "What would you like to name the file?", "timestamp": "2025-10-24T12:54:07.416042Z"}
+{"type": "response", "text": "I didn't catch the file name. Please try again.", "timestamp": "2025-10-24T12:54:23.020932Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T12:54:50.035636Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:54:51.288860Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T12:54:53.172706Z"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T12:55:18.024341Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T12:55:18.037669Z"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-24T12:55:36.544459Z"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-24T12:55:57.491524Z"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-24T12:56:10.544858Z"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-24T12:56:10.547501Z"}
+{"type": "response", "text": "Exiting text mode and returning to voice mode.", "timestamp": "2025-10-24T12:57:10.826269Z"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-24T12:57:23.857139Z"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-24T12:57:23.859120Z"}
+{"type": "response", "text": "Exiting text mode and returning to voice mode.", "timestamp": "2025-10-24T12:57:43.759812Z"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T12:57:56.114965Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T12:57:56.119233Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:57:57.405603Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T12:57:59.300686Z"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T12:58:09.225678Z"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T12:58:09.240656Z"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T12:59:01.626191Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T12:59:01.627825Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T12:59:02.909183Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T12:59:04.799045Z"}
+{"type": "response", "text": "Text mode interrupted. Returning to voice mode.", "timestamp": "2025-10-24T13:00:40.459959Z"}
+{"type": "command", "text": "exit exit", "timestamp": "2025-10-24T13:01:01.467930Z"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T13:01:01.469559Z"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T13:01:02.748895Z"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T13:01:04.648882Z"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T13:14:22.061098+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T13:14:22.074368+00:00"}
+{"type": "command", "text": "add event", "timestamp": "2025-10-24T13:14:35.241192+00:00"}
+{"type": "command", "text": "create event", "timestamp": "2025-10-24T13:14:44.268058+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-10-24T13:14:44.273939+00:00"}
+{"type": "command", "text": "lab practical", "timestamp": "2025-10-24T13:14:56.856036+00:00"}
+{"type": "response", "text": "When is the event? Please provide a date and time, for example \"2025-10-25 18:30\" or \"tomorrow 7 pm\".", "timestamp": "2025-10-24T13:14:56.857814+00:00"}
+{"type": "response", "text": "Any description for the event?", "timestamp": "2025-10-24T13:15:12.130411+00:00"}
+{"type": "command", "text": "it's a practical exam", "timestamp": "2025-10-24T13:15:33.716917+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T13:15:50.171571+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T13:15:50.187690+00:00"}
+{"type": "command", "text": "create event", "timestamp": "2025-10-24T13:16:01.249811+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-10-24T13:16:01.250998+00:00"}
+{"type": "command", "text": "lab practical", "timestamp": "2025-10-24T13:16:10.985645+00:00"}
+{"type": "response", "text": "When is the event? Please provide a date and time, for example \"2025-10-25 18:30\" or \"tomorrow 7 pm\".", "timestamp": "2025-10-24T13:16:10.987239+00:00"}
+{"type": "command", "text": "2025 10 27", "timestamp": "2025-10-24T13:16:31.364570+00:00"}
+{"type": "response", "text": "Any description for the event?", "timestamp": "2025-10-24T13:16:31.418089+00:00"}
+{"type": "command", "text": "it's a exam", "timestamp": "2025-10-24T13:16:41.605821+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T13:21:52.059097+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T13:21:52.073837+00:00"}
+{"type": "command", "text": "create event", "timestamp": "2025-10-24T13:22:04.170315+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-10-24T13:22:04.171766+00:00"}
+{"type": "command", "text": "lab practical", "timestamp": "2025-10-24T13:22:13.285627+00:00"}
+{"type": "response", "text": "When is the event? Please provide a date and time, for example \"2025-10-25 18:30\" or \"tomorrow 7 pm\".", "timestamp": "2025-10-24T13:22:13.287080+00:00"}
+{"type": "command", "text": "25 10 27", "timestamp": "2025-10-24T13:22:31.407394+00:00"}
+{"type": "response", "text": "Any description for the event?", "timestamp": "2025-10-24T13:22:31.440318+00:00"}
+{"type": "command", "text": "it's a important exam", "timestamp": "2025-10-24T13:22:47.179718+00:00"}
+{"type": "response", "text": "Events saved.", "timestamp": "2025-10-24T13:22:47.182983+00:00"}
+{"type": "calendar", "action": "create", "event": {"id": "3", "title": "lab practical", "when": "2027-10-25T18:52:31.439548+00:00", "description": "it's a important exam"}, "timestamp": "2025-10-24T13:22:48.855125+00:00"}
+{"type": "response", "text": "Event \"lab practical\" created.", "timestamp": "2025-10-24T13:22:48.855680+00:00"}
+{"type": "command", "text": "view event", "timestamp": "2025-10-24T13:23:25.871530+00:00"}
+{"type": "command", "text": "view event", "timestamp": "2025-10-24T13:23:34.113432+00:00"}
+{"type": "command", "text": "view event", "timestamp": "2025-10-24T13:23:40.200941+00:00"}
+{"type": "command", "text": "list event", "timestamp": "2025-10-24T13:23:48.517132+00:00"}
+{"type": "command", "text": "show event show event", "timestamp": "2025-10-24T13:23:56.383530+00:00"}
+{"type": "command", "text": "show event", "timestamp": "2025-10-24T13:24:01.934077+00:00"}
+{"type": "command", "text": "show events", "timestamp": "2025-10-24T13:24:34.007261+00:00"}
+{"type": "response", "text": "Found 1 events:", "timestamp": "2025-10-24T13:24:34.009939+00:00"}
+{"type": "response", "text": "lab practical at 2027-10-25T18:52:31.439548+00:00. it's a important exam", "timestamp": "2025-10-24T13:24:35.895566+00:00"}
+{"type": "command", "text": "edit events", "timestamp": "2025-10-24T13:25:00.317331+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:25:00.318141+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:25:07.675864+00:00"}
+{"type": "command", "text": "Aditi event", "timestamp": "2025-10-24T13:25:15.049445+00:00"}
+{"type": "command", "text": "Aditi event", "timestamp": "2025-10-24T13:25:23.444282+00:00"}
+{"type": "command", "text": "edit event", "timestamp": "2025-10-24T13:25:28.873772+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:25:28.876691+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:25:37.578028+00:00"}
+{"type": "command", "text": "edit event", "timestamp": "2025-10-24T13:25:44.643133+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:25:44.645297+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:25:53.346072+00:00"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-24T13:26:02.152626+00:00"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-24T13:26:02.155112+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:26:15.961087+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:26:27.490517+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:26:40.704081+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:26:48.745635+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:27:00.351094+00:00"}
+{"type": "command", "text": "lab practical", "timestamp": "2025-10-24T13:27:10.249616+00:00"}
+{"type": "response", "text": "Event not found.", "timestamp": "2025-10-24T13:27:10.251336+00:00"}
+{"type": "response", "text": "Found 1 events:", "timestamp": "2025-10-24T13:27:22.329219+00:00"}
+{"type": "response", "text": "lab practical at 2027-10-25T18:52:31.439548+00:00. it's a important exam", "timestamp": "2025-10-24T13:27:24.095808+00:00"}
+{"type": "response", "text": "Which event id would you like to delete?", "timestamp": "2025-10-24T13:27:52.541342+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:28:04.220503+00:00"}
+{"type": "response", "text": "Exiting text mode and returning to voice mode.", "timestamp": "2025-10-24T13:28:14.027246+00:00"}
+{"type": "command", "text": "goodbye", "timestamp": "2025-10-24T13:28:22.034547+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T13:28:22.036179+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T13:28:23.339754+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T13:28:25.252302+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T13:36:30.828163+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T13:36:30.844469+00:00"}
+{"type": "command", "text": "edit event", "timestamp": "2025-10-24T13:36:51.458163+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:36:51.460054+00:00"}
+{"type": "command", "text": "number 1", "timestamp": "2025-10-24T13:37:34.093748+00:00"}
+{"type": "response", "text": "Event not found.", "timestamp": "2025-10-24T13:37:34.095252+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T13:38:29.383271+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T13:38:29.404119+00:00"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-24T13:38:42.813449+00:00"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-24T13:38:42.818878+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:38:56.225329+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:39:04.920595+00:00"}
+{"type": "response", "text": "Please tell me the event id to edit.", "timestamp": "2025-10-24T13:39:14.778301+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:39:24.057327+00:00"}
+{"type": "response", "text": "Which event id would you like to delete?", "timestamp": "2025-10-24T13:39:35.432227+00:00"}
+{"type": "command", "text": "33", "timestamp": "2025-10-24T13:39:46.079917+00:00"}
+{"type": "response", "text": "Event not found.", "timestamp": "2025-10-24T13:39:46.081187+00:00"}
+{"type": "response", "text": "Which event id would you like to delete?", "timestamp": "2025-10-24T13:39:55.543935+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:40:06.150284+00:00"}
+{"type": "response", "text": "Which event id would you like to delete?", "timestamp": "2025-10-24T13:40:14.464296+00:00"}
+{"type": "response", "text": "No id provided.", "timestamp": "2025-10-24T13:40:23.149311+00:00"}
+{"type": "response", "text": "Exiting text mode and returning to voice mode.", "timestamp": "2025-10-24T13:40:32.100639+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T13:40:44.962823+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T13:40:44.964257+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T13:40:46.254521+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T13:40:48.145064+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T14:10:14.447814+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T14:10:14.459409+00:00"}
+{"type": "command", "text": "play music", "timestamp": "2025-10-24T14:10:24.495951+00:00"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-10-24T14:10:24.496914+00:00"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-10-24T14:10:33.457962+00:00"}
+{"type": "command", "text": "stop music", "timestamp": "2025-10-24T14:10:57.346672+00:00"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-10-24T14:10:57.350655+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-24T14:11:14.027396+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T14:11:44.749390+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T14:11:44.750812+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T14:11:46.038278+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T14:11:47.952403+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T15:53:30.552113+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T15:53:30.565105+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T15:58:25.365337+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T15:58:25.376612+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T15:58:36.320910+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T15:58:36.322283+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T15:58:37.595452+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T15:58:39.526305+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T15:58:45.751064+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T15:58:45.773516+00:00"}
+{"type": "command", "text": "play music", "timestamp": "2025-10-24T15:59:07.216895+00:00"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-10-24T15:59:07.220061+00:00"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-10-24T15:59:16.315988+00:00"}
+{"type": "command", "text": "Jarvis", "timestamp": "2025-10-24T16:00:26.956402+00:00"}
+{"type": "command", "text": "start music", "timestamp": "2025-10-24T16:00:30.363979+00:00"}
+{"type": "command", "text": "stop music", "timestamp": "2025-10-24T16:00:34.037811+00:00"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-10-24T16:00:34.043021+00:00"}
+{"type": "command", "text": "the time", "timestamp": "2025-10-24T16:00:38.976220+00:00"}
+{"type": "response", "text": "The time is 21:30:38", "timestamp": "2025-10-24T16:00:38.980741+00:00"}
+{"type": "command", "text": "set timer", "timestamp": "2025-10-24T16:00:46.644855+00:00"}
+{"type": "response", "text": "How long should I set the timer for? (e.g., '5 minutes', '2 hours 30 minutes', or '90 seconds')", "timestamp": "2025-10-24T16:00:46.646182+00:00"}
+{"type": "command", "text": "5 seconds", "timestamp": "2025-10-24T16:01:00.059756+00:00"}
+{"type": "response", "text": "Timer set for 5 seconds.", "timestamp": "2025-10-24T16:01:00.063394+00:00"}
+{"type": "response", "text": "4", "timestamp": "2025-10-24T16:01:02.628849+00:00"}
+{"type": "response", "text": "2", "timestamp": "2025-10-24T16:01:04.676529+00:00"}
+{"type": "response", "text": "1", "timestamp": "2025-10-24T16:01:06.544748+00:00"}
+{"type": "response", "text": "Time's up!", "timestamp": "2025-10-24T16:01:08.563082+00:00"}
+{"type": "response", "text": "Wake up! This is your alarm.", "timestamp": "2025-10-24T16:01:10.090274+00:00"}
+{"type": "command", "text": "cancel timer", "timestamp": "2025-10-24T16:01:24.226922+00:00"}
+{"type": "response", "text": "There is no active timer to cancel.", "timestamp": "2025-10-24T16:01:24.228292+00:00"}
+{"type": "command", "text": "close Google", "timestamp": "2025-10-24T16:02:37.845880+00:00"}
+{"type": "response", "text": "No supported browser seems to be running.", "timestamp": "2025-10-24T16:02:38.302477+00:00"}
+{"type": "command", "text": "close files", "timestamp": "2025-10-24T16:02:54.545595+00:00"}
+{"type": "response", "text": "Tried to close files.", "timestamp": "2025-10-24T16:02:54.676843+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T16:04:20.472846+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T16:04:20.485878+00:00"}
+{"type": "command", "text": "conversation mode", "timestamp": "2025-10-24T16:04:38.176881+00:00"}
+{"type": "response", "text": "Starting conversation mode. I'm here to chat — say 'stop conversation' to exit.", "timestamp": "2025-10-24T16:04:38.178326+00:00"}
+{"type": "response", "text": "If you could travel anywhere right now, where would you go?", "timestamp": "2025-10-24T16:04:44.822393+00:00"}
+{"type": "command", "text": "Andaman", "timestamp": "2025-10-24T16:04:55.587872+00:00"}
+{"type": "response", "text": "That's interesting — you said: andaman. Tell me more.", "timestamp": "2025-10-24T16:04:55.589135+00:00"}
+{"type": "response", "text": "Tell me more about your day.", "timestamp": "2025-10-24T16:05:00.851256+00:00"}
+{"type": "command", "text": "stop conversation", "timestamp": "2025-10-24T16:05:07.467606+00:00"}
+{"type": "response", "text": "Okay, exiting conversation mode. Back to normal operations.", "timestamp": "2025-10-24T16:05:07.468995+00:00"}
+{"type": "command", "text": "offline mode", "timestamp": "2025-10-24T16:05:17.832671+00:00"}
+{"type": "response", "text": "Assistant set to offline mode. Online features are disabled until you go back online.", "timestamp": "2025-10-24T16:05:17.835131+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-24T16:05:28.561012+00:00"}
+{"type": "response", "text": "Cannot open websites while offline.", "timestamp": "2025-10-24T16:05:28.562870+00:00"}
+{"type": "command", "text": "play music", "timestamp": "2025-10-24T16:05:40.028521+00:00"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-10-24T16:05:40.031935+00:00"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-10-24T16:05:49.087916+00:00"}
+{"type": "command", "text": "stop music", "timestamp": "2025-10-24T16:05:54.131059+00:00"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-10-24T16:05:54.134607+00:00"}
+{"type": "command", "text": "create event", "timestamp": "2025-10-24T16:06:08.899024+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-10-24T16:06:08.900676+00:00"}
+{"type": "response", "text": "Cancelled event creation.", "timestamp": "2025-10-24T16:06:19.961856+00:00"}
+{"type": "command", "text": "list files", "timestamp": "2025-10-24T16:06:28.355939+00:00"}
+{"type": "response", "text": "Which directory would you like to list files from? Say 'current', 'desktop', 'documents', or 'downloads'.", "timestamp": "2025-10-24T16:06:28.357383+00:00"}
+{"type": "command", "text": "downloads", "timestamp": "2025-10-24T16:06:40.645962+00:00"}
+{"type": "response", "text": "Found 2 folders and 41 files in downloads directory.", "timestamp": "2025-10-24T16:06:40.651221+00:00"}
+{"type": "response", "text": "Folders: JARVIS-Your-Personal-Voice-Assistant, jarvis_en_linux_v3_0_0", "timestamp": "2025-10-24T16:06:45.560264+00:00"}
+{"type": "response", "text": "Files: ppt.pptx, Anaconda3-2025.06-0-Linux-x86_64.sh, node-v22.18.0-linux-x64.tar.xz, Abstract Form - I Review.docx, voice_input.py", "timestamp": "2025-10-24T16:06:51.948728+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-10-24T16:07:08.288769+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-24T16:07:08.303696+00:00"}
+{"type": "command", "text": "search files", "timestamp": "2025-10-24T16:07:28.369093+00:00"}
+{"type": "response", "text": "What file or type of file are you looking for?", "timestamp": "2025-10-24T16:07:28.371282+00:00"}
+{"type": "command", "text": "assistant Dash", "timestamp": "2025-10-24T16:07:38.607848+00:00"}
+{"type": "response", "text": "Searching for files containing assistant dash...", "timestamp": "2025-10-24T16:07:38.610136+00:00"}
+{"type": "response", "text": "No files found containing assistant dash.", "timestamp": "2025-10-24T16:08:37.751189+00:00"}
+{"type": "command", "text": "create folder", "timestamp": "2025-10-24T16:08:51.927041+00:00"}
+{"type": "response", "text": "What would you like to name the new folder?", "timestamp": "2025-10-24T16:08:51.928954+00:00"}
+{"type": "command", "text": "mango", "timestamp": "2025-10-24T16:08:59.299383+00:00"}
+{"type": "response", "text": "Folder 'mango' created at /home/mr-blackdevil/myvoiceenv (Copy)/mango", "timestamp": "2025-10-24T16:08:59.302900+00:00"}
+{"type": "command", "text": "delete folder", "timestamp": "2025-10-24T16:09:15.481853+00:00"}
+{"type": "response", "text": "Which folder would you like to delete?", "timestamp": "2025-10-24T16:09:15.484540+00:00"}
+{"type": "command", "text": "mango", "timestamp": "2025-10-24T16:09:45.387427+00:00"}
+{"type": "response", "text": "Folder 'mango' deleted.", "timestamp": "2025-10-24T16:09:45.391179+00:00"}
+{"type": "command", "text": "offline mode", "timestamp": "2025-10-24T16:09:51.216955+00:00"}
+{"type": "response", "text": "Assistant set to offline mode. Online features are disabled until you go back online.", "timestamp": "2025-10-24T16:09:51.219837+00:00"}
+{"type": "command", "text": "create files", "timestamp": "2025-10-24T16:10:00.946868+00:00"}
+{"type": "response", "text": "What would you like to name the file?", "timestamp": "2025-10-24T16:10:00.948451+00:00"}
+{"type": "response", "text": "I didn't catch the file name. Please try again.", "timestamp": "2025-10-24T16:10:07.910135+00:00"}
+{"type": "command", "text": "remember", "timestamp": "2025-10-24T16:10:15.793684+00:00"}
+{"type": "response", "text": "What would you like me to remember? Please state the key, for example: my name.", "timestamp": "2025-10-24T16:10:15.795200+00:00"}
+{"type": "command", "text": "list the group", "timestamp": "2025-10-24T16:10:26.958197+00:00"}
+{"type": "response", "text": "What is the value for list group?", "timestamp": "2025-10-24T16:10:26.968132+00:00"}
+{"type": "command", "text": "369", "timestamp": "2025-10-24T16:10:33.205991+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T16:10:33.209452+00:00"}
+{"type": "action", "action": "remember", "key": "list group", "value": "369", "timestamp": "2025-10-24T16:10:35.091165+00:00"}
+{"type": "response", "text": "I will remember list group as 369.", "timestamp": "2025-10-24T16:10:35.091799+00:00"}
+{"type": "command", "text": "delete forgot", "timestamp": "2025-10-24T16:10:51.023755+00:00"}
+{"type": "command", "text": "forgot that", "timestamp": "2025-10-24T16:10:56.243466+00:00"}
+{"type": "command", "text": "forget that", "timestamp": "2025-10-24T16:11:31.268010+00:00"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T16:11:31.269524+00:00"}
+{"type": "command", "text": "369", "timestamp": "2025-10-24T16:11:41.721856+00:00"}
+{"type": "response", "text": "No matching user data found to forget.", "timestamp": "2025-10-24T16:11:41.723986+00:00"}
+{"type": "action", "action": "forget", "key": "369", "result": "not_found", "candidates": ["your name jarvis", "my name black devil", "world full of flowers", "favourite colour black and", "list group"], "timestamp": "2025-10-24T16:11:44.871579+00:00"}
+{"type": "command", "text": "Mahima", "timestamp": "2025-10-24T16:11:49.085194+00:00"}
+{"type": "command", "text": "forget that", "timestamp": "2025-10-24T16:11:59.701026+00:00"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-10-24T16:11:59.703345+00:00"}
+{"type": "command", "text": "list for list group", "timestamp": "2025-10-24T16:12:07.616197+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T16:12:07.618976+00:00"}
+{"type": "action", "action": "forget", "key": "list group", "matched_with": "list for list group", "result": "removed", "timestamp": "2025-10-24T16:12:09.506681+00:00"}
+{"type": "response", "text": "I forgot list group.", "timestamp": "2025-10-24T16:12:09.507163+00:00"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-24T16:12:25.845176+00:00"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-24T16:12:25.850579+00:00"}
+{"type": "response", "text": "Cannot open websites while offline.", "timestamp": "2025-10-24T16:12:43.478330+00:00"}
+{"type": "response", "text": "Exiting text mode and returning to voice mode.", "timestamp": "2025-10-24T16:12:57.412175+00:00"}
+{"type": "command", "text": "online mode", "timestamp": "2025-10-24T16:13:07.319917+00:00"}
+{"type": "response", "text": "Assistant set to online mode. Online features restored.", "timestamp": "2025-10-24T16:13:07.322445+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-24T16:13:16.231995+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-24T16:13:16.233660+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-24T16:13:17.488658+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-24T16:13:19.369940+00:00"}
+{"type": "response", "text": "Good Morning!", "timestamp": "2025-10-25T04:58:35.107212+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-25T04:58:35.122319+00:00"}
+{"type": "command", "text": "you are connected", "timestamp": "2025-10-25T04:58:48.675382+00:00"}
+{"type": "command", "text": "Texmo", "timestamp": "2025-10-25T04:59:05.605377+00:00"}
+{"type": "command", "text": "text mode", "timestamp": "2025-10-25T04:59:12.746743+00:00"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-10-25T04:59:12.749643+00:00"}
+{"type": "response", "text": "Assistant set to offline mode. Online features are disabled until you go back online.", "timestamp": "2025-10-25T04:59:28.905964+00:00"}
+{"type": "response", "text": "Starting conversation mode. I'm here to chat — say 'stop conversation' to exit.", "timestamp": "2025-10-25T04:59:56.157535+00:00"}
+{"type": "response", "text": "What's your favorite food?", "timestamp": "2025-10-25T05:00:02.919792+00:00"}
+{"type": "command", "text": "user profile offline", "timestamp": "2025-10-25T05:00:22.108249+00:00"}
+{"type": "response", "text": "That's interesting — you said: user profile offline. Tell me more.", "timestamp": "2025-10-25T05:00:22.110162+00:00"}
+{"type": "response", "text": "Tell me more about your day.", "timestamp": "2025-10-25T05:00:28.128934+00:00"}
+{"type": "response", "text": "I didn't catch that — want to continue chatting or say 'stop conversation' to exit?", "timestamp": "2025-10-25T05:00:37.704077+00:00"}
+{"type": "response", "text": "What's your favorite movie or show at the moment?", "timestamp": "2025-10-25T05:00:44.360389+00:00"}
+{"type": "command", "text": "start chat", "timestamp": "2025-10-25T05:00:51.463814+00:00"}
+{"type": "response", "text": "That's interesting — you said: start chat. Tell me more.", "timestamp": "2025-10-25T05:00:51.465350+00:00"}
+{"type": "response", "text": "What's a hobby you've enjoyed recently?", "timestamp": "2025-10-25T05:00:56.868370+00:00"}
+{"type": "command", "text": "Snapchat", "timestamp": "2025-10-25T05:01:09.090313+00:00"}
+{"type": "response", "text": "That's interesting — you said: snapchat. Tell me more.", "timestamp": "2025-10-25T05:01:09.092321+00:00"}
+{"type": "response", "text": "What's your favorite food?", "timestamp": "2025-10-25T05:01:14.498068+00:00"}
+{"type": "command", "text": "stop chat", "timestamp": "2025-10-25T05:01:22.697521+00:00"}
+{"type": "response", "text": "Okay, exiting conversation mode. Back to normal operations.", "timestamp": "2025-10-25T05:01:22.698742+00:00"}
+{"type": "response", "text": "Exiting text mode and returning to voice mode.", "timestamp": "2025-10-25T05:01:43.102290+00:00"}
+{"type": "command", "text": "play music", "timestamp": "2025-10-25T05:01:51.882082+00:00"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-10-25T05:01:51.884923+00:00"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-10-25T05:02:01.081444+00:00"}
+{"type": "command", "text": "stop music", "timestamp": "2025-10-25T05:02:13.700116+00:00"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-10-25T05:02:13.703812+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-25T05:02:33.042648+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-25T05:02:33.043944+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-25T05:02:34.299714+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-25T05:02:36.192927+00:00"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-10-25T07:56:01.450810+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-25T07:56:01.463965+00:00"}
+{"type": "command", "text": "back", "timestamp": "2025-10-25T08:44:12.039593+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-25T08:44:17.914697+00:00"}
+{"type": "response", "text": "Cannot open websites while offline.", "timestamp": "2025-10-25T08:44:17.916276+00:00"}
+{"type": "command", "text": "online mode", "timestamp": "2025-10-25T08:44:25.454056+00:00"}
+{"type": "response", "text": "Assistant set to online mode. Online features restored.", "timestamp": "2025-10-25T08:44:25.454992+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-25T08:44:33.979912+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-10-25T08:44:43.375628+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-25T08:44:43.377587+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-25T08:44:44.622297+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-25T08:44:46.492364+00:00"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-10-25T09:55:19.821910+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-10-25T09:55:19.835946+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-25T09:56:11.775973+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-10-25T09:56:17.764069+00:00"}
+{"type": "command", "text": "Faridabad", "timestamp": "2025-10-25T09:56:25.997945+00:00"}
+{"type": "command", "text": "exit exit", "timestamp": "2025-10-25T09:56:46.794402+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-10-25T09:56:46.796338+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-10-25T09:56:48.049974+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-10-25T09:56:49.924537+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-11-02T15:20:47.678474+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-02T15:20:47.691677+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-11-02T15:22:01.546225+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-02T15:22:01.559795+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-11-02T15:23:36.673463+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-02T15:23:36.690066+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-11-02T15:24:13.369057+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-02T15:24:13.394319+00:00"}
+{"type": "command", "text": "offline mode", "timestamp": "2025-11-02T15:24:24.131683+00:00"}
+{"type": "response", "text": "Assistant set to offline mode. Online features are disabled until you go back online.", "timestamp": "2025-11-02T15:24:24.132542+00:00"}
+{"type": "command", "text": "play music", "timestamp": "2025-11-02T15:24:36.406762+00:00"}
+{"type": "response", "text": "Songs found: ['Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-11-02T15:24:36.408092+00:00"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-11-02T15:24:45.370335+00:00"}
+{"type": "command", "text": "stop music", "timestamp": "2025-11-02T15:24:55.100936+00:00"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-11-02T15:24:55.105758+00:00"}
+{"type": "command", "text": "go online", "timestamp": "2025-11-02T15:25:39.239015+00:00"}
+{"type": "response", "text": "Assistant set to online mode. Online features restored.", "timestamp": "2025-11-02T15:25:39.242835+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-11-02T15:25:55.112317+00:00"}
+{"type": "response", "text": "Good Morning!", "timestamp": "2025-11-05T04:50:24.154934+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-05T04:50:24.167842+00:00"}
+{"type": "command", "text": "open Google", "timestamp": "2025-11-05T04:50:35.345921+00:00"}
+{"type": "command", "text": "start chatting", "timestamp": "2025-11-05T04:50:43.046317+00:00"}
+{"type": "command", "text": "start conversation", "timestamp": "2025-11-05T04:50:47.631537+00:00"}
+{"type": "response", "text": "Starting conversation mode! I'm here to have a nice chat with you.", "timestamp": "2025-11-05T04:50:47.632834+00:00"}
+{"type": "response", "text": "Say 'stop conversation' whenever you want to exit and get back to commands.", "timestamp": "2025-11-05T04:50:52.391482+00:00"}
+{"type": "response", "text": "So, tell me - how's your day going?", "timestamp": "2025-11-05T04:50:58.591479+00:00"}
+{"type": "command", "text": "yeah it was better", "timestamp": "2025-11-05T04:51:05.669986+00:00"}
+{"type": "response", "text": "Interesting! How did you get into that?", "timestamp": "2025-11-05T04:51:05.671487+00:00"}
+{"type": "response", "text": "What do you think about AI assistants like me?", "timestamp": "2025-11-05T04:51:09.362888+00:00"}
+{"type": "command", "text": "you are very", "timestamp": "2025-11-05T04:51:16.508853+00:00"}
+{"type": "response", "text": "I see. What made you interested in that?", "timestamp": "2025-11-05T04:51:16.510343+00:00"}
+{"type": "response", "text": "What do you like to do in your free time?", "timestamp": "2025-11-05T04:51:20.205190+00:00"}
+{"type": "command", "text": "stop chatting", "timestamp": "2025-11-05T04:51:27.161777+00:00"}
+{"type": "response", "text": "Thanks for chatting with me!", "timestamp": "2025-11-05T04:51:27.163025+00:00"}
+{"type": "response", "text": "Exiting conversation mode. Back to normal operations.", "timestamp": "2025-11-05T04:51:29.474902+00:00"}
+{"type": "command", "text": "save data", "timestamp": "2025-11-05T04:51:37.384079+00:00"}
+{"type": "command", "text": "weather", "timestamp": "2025-11-05T04:51:54.692909+00:00"}
+{"type": "response", "text": "Which city's weather would you like to know?", "timestamp": "2025-11-05T04:51:54.694258+00:00"}
+{"type": "command", "text": "Tirunelveli", "timestamp": "2025-11-05T04:52:00.493969+00:00"}
+{"type": "response", "text": "Getting weather information for tirunelveli...", "timestamp": "2025-11-05T04:52:00.496090+00:00"}
+{"type": "response", "text": "Current weather in Tirunelveli, IN: overcast clouds. Temperature is 31.0°C, feels like 33.2°C. Humidity is 53% and wind speed is 1.91 meters per second.", "timestamp": "2025-11-05T04:52:03.613347+00:00"}
+{"type": "command", "text": "increase brightness", "timestamp": "2025-11-05T04:52:35.461743+00:00"}
+{"type": "response", "text": "Increased brightness.", "timestamp": "2025-11-05T04:52:46.271139+00:00"}
+{"type": "command", "text": "decrease brightness to 50%", "timestamp": "2025-11-05T04:52:59.592012+00:00"}
+{"type": "response", "text": "Brightness set to 50 percent", "timestamp": "2025-11-05T04:52:59.631753+00:00"}
+{"type": "command", "text": "decrease brightness", "timestamp": "2025-11-05T04:53:13.553834+00:00"}
+{"type": "response", "text": "Decreased brightness.", "timestamp": "2025-11-05T04:53:13.592212+00:00"}
+{"type": "command", "text": "increase brightness 100%", "timestamp": "2025-11-05T04:53:20.009164+00:00"}
+{"type": "response", "text": "Increased brightness.", "timestamp": "2025-11-05T04:53:20.033428+00:00"}
+{"type": "command", "text": "brightness 50%", "timestamp": "2025-11-05T04:53:34.815778+00:00"}
+{"type": "command", "text": "Set brightness 50%", "timestamp": "2025-11-05T04:53:46.627421+00:00"}
+{"type": "response", "text": "Brightness set to 50 percent", "timestamp": "2025-11-05T04:53:46.664524+00:00"}
+{"type": "command", "text": "the time", "timestamp": "2025-11-05T04:54:08.030868+00:00"}
+{"type": "response", "text": "The time is 10:24:08", "timestamp": "2025-11-05T04:54:08.032724+00:00"}
+{"type": "command", "text": "remember", "timestamp": "2025-11-05T04:54:32.618518+00:00"}
+{"type": "response", "text": "What would you like me to remember? Please state the key, for example: my name.", "timestamp": "2025-11-05T04:54:32.620170+00:00"}
+{"type": "command", "text": "today is third review", "timestamp": "2025-11-05T04:54:44.233872+00:00"}
+{"type": "response", "text": "What is the value for today third review?", "timestamp": "2025-11-05T04:54:44.235570+00:00"}
+{"type": "command", "text": "66", "timestamp": "2025-11-05T04:54:51.200227+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-11-05T04:54:51.201320+00:00"}
+{"type": "action", "action": "remember", "key": "today third review", "value": "66", "timestamp": "2025-11-05T04:54:52.996270+00:00"}
+{"type": "response", "text": "I will remember today third review as 66.", "timestamp": "2025-11-05T04:54:52.996803+00:00"}
+{"type": "command", "text": "recall", "timestamp": "2025-11-05T04:55:00.988301+00:00"}
+{"type": "response", "text": "Which piece of user data would you like me to recall?", "timestamp": "2025-11-05T04:55:00.992644+00:00"}
+{"type": "command", "text": "66", "timestamp": "2025-11-05T04:55:07.700742+00:00"}
+{"type": "action", "action": "recall", "key": "today third review", "matched_value": true, "result": "found", "timestamp": "2025-11-05T04:55:07.702427+00:00"}
+{"type": "response", "text": "That is 66", "timestamp": "2025-11-05T04:55:07.702922+00:00"}
+{"type": "command", "text": "recall", "timestamp": "2025-11-05T04:55:30.766487+00:00"}
+{"type": "response", "text": "Which piece of user data would you like me to recall?", "timestamp": "2025-11-05T04:55:30.767075+00:00"}
+{"type": "command", "text": "the third review", "timestamp": "2025-11-05T04:55:37.420271+00:00"}
+{"type": "action", "action": "recall", "key": "today third review", "matched_with": "third review", "result": "found", "timestamp": "2025-11-05T04:55:37.421041+00:00"}
+{"type": "response", "text": "That is 66", "timestamp": "2025-11-05T04:55:37.421224+00:00"}
+{"type": "command", "text": "forgot", "timestamp": "2025-11-05T04:55:43.046888+00:00"}
+{"type": "command", "text": "forgot", "timestamp": "2025-11-05T04:55:48.364130+00:00"}
+{"type": "command", "text": "forget", "timestamp": "2025-11-05T04:56:05.279934+00:00"}
+{"type": "response", "text": "Which key should I forget?", "timestamp": "2025-11-05T04:56:05.281323+00:00"}
+{"type": "command", "text": "today third review", "timestamp": "2025-11-05T04:56:11.623756+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-11-05T04:56:11.626413+00:00"}
+{"type": "action", "action": "forget", "key": "today third review", "matched_with": "today third review", "result": "removed", "timestamp": "2025-11-05T04:56:13.437677+00:00"}
+{"type": "response", "text": "I forgot today third review.", "timestamp": "2025-11-05T04:56:13.438163+00:00"}
+{"type": "command", "text": "create event", "timestamp": "2025-11-05T04:56:25.705944+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-11-05T04:56:25.707994+00:00"}
+{"type": "response", "text": "Cancelled event creation.", "timestamp": "2025-11-05T04:56:32.966620+00:00"}
+{"type": "command", "text": "create event", "timestamp": "2025-11-05T04:56:37.981756+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-11-05T04:56:37.984176+00:00"}
+{"type": "command", "text": "pad", "timestamp": "2025-11-05T04:56:45.008254+00:00"}
+{"type": "response", "text": "When is the event? Please provide a date and time, for example \"2025-10-25 18:30\" or \"tomorrow 7 pm\".", "timestamp": "2025-11-05T04:56:45.010023+00:00"}
+{"type": "command", "text": "2028 5", "timestamp": "2025-11-05T04:57:02.623009+00:00"}
+{"type": "response", "text": "Any description for the event?", "timestamp": "2025-11-05T04:57:02.660565+00:00"}
+{"type": "command", "text": "it was emergency meeting", "timestamp": "2025-11-05T04:57:10.375961+00:00"}
+{"type": "response", "text": "Events saved.", "timestamp": "2025-11-05T04:57:10.377238+00:00"}
+{"type": "calendar", "action": "create", "event": {"id": "4", "title": "pad", "when": "2028-05-05T10:27:02.660270+00:00", "description": "it was emergency meeting"}, "timestamp": "2025-11-05T04:57:11.926502+00:00"}
+{"type": "response", "text": "Event \"pad\" created.", "timestamp": "2025-11-05T04:57:11.926969+00:00"}
+{"type": "command", "text": "delete event", "timestamp": "2025-11-05T04:57:23.722655+00:00"}
+{"type": "response", "text": "You have 4 events. Here are the first twenty:", "timestamp": "2025-11-05T04:57:23.724966+00:00"}
+{"type": "response", "text": "1. TEST EVENT (id: 1) at 2025-10-24T13:07:27.771544+00:00)", "timestamp": "2025-11-05T04:57:27.291846+00:00"}
+{"type": "response", "text": "2. TEST EVENT 2 (id: 2) at 2025-10-24T13:20:09.958611+00:00)", "timestamp": "2025-11-05T04:57:41.005533+00:00"}
+{"type": "response", "text": "3. lab practical (id: 3) at 2027-10-25T18:52:31.439548+00:00)", "timestamp": "2025-11-05T04:57:54.338759+00:00"}
+{"type": "response", "text": "4. pad (id: 4) at 2028-05-05T10:27:02.660270+00:00)", "timestamp": "2025-11-05T04:58:07.304094+00:00"}
+{"type": "response", "text": "Which event would you like to delete? You can say the number or the event id.", "timestamp": "2025-11-05T04:58:20.108949+00:00"}
+{"type": "command", "text": "four four", "timestamp": "2025-11-05T04:58:29.040870+00:00"}
+{"type": "response", "text": "Event not found for that selection.", "timestamp": "2025-11-05T04:58:29.041857+00:00"}
+{"type": "command", "text": "delete event for", "timestamp": "2025-11-05T04:58:35.753478+00:00"}
+{"type": "response", "text": "You have 4 events. Here are the first twenty:", "timestamp": "2025-11-05T04:58:35.754046+00:00"}
+{"type": "response", "text": "1. TEST EVENT (id: 1) at 2025-10-24T13:07:27.771544+00:00)", "timestamp": "2025-11-05T04:58:39.423606+00:00"}
+{"type": "response", "text": "2. TEST EVENT 2 (id: 2) at 2025-10-24T13:20:09.958611+00:00)", "timestamp": "2025-11-05T04:58:53.128034+00:00"}
+{"type": "response", "text": "3. lab practical (id: 3) at 2027-10-25T18:52:31.439548+00:00)", "timestamp": "2025-11-05T04:59:06.454081+00:00"}
+{"type": "response", "text": "4. pad (id: 4) at 2028-05-05T10:27:02.660270+00:00)", "timestamp": "2025-11-05T04:59:19.392659+00:00"}
+{"type": "response", "text": "Which event would you like to delete? You can say the number or the event id.", "timestamp": "2025-11-05T04:59:32.231979+00:00"}
+{"type": "response", "text": "No selection provided.", "timestamp": "2025-11-05T04:59:40.629196+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-11-05T05:00:14.670720+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-11-05T05:00:14.677272+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-11-05T05:00:15.862052+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-11-05T05:00:17.693351+00:00"}
+{"type": "response", "text": "Good Morning!", "timestamp": "2025-11-05T05:00:29.068842+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-05T05:00:29.089094+00:00"}
+{"type": "command", "text": "delete event", "timestamp": "2025-11-05T05:00:44.423538+00:00"}
+{"type": "command", "text": "delete event", "timestamp": "2025-11-05T05:00:48.707057+00:00"}
+{"type": "command", "text": "delete event", "timestamp": "2025-11-05T05:01:04.996846+00:00"}
+{"type": "command", "text": "remove event", "timestamp": "2025-11-05T05:01:11.450685+00:00"}
+{"type": "command", "text": "NCERT", "timestamp": "2025-11-05T05:01:22.713756+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-11-05T05:01:39.201825+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-11-05T05:01:39.202667+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-11-05T05:01:40.374352+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-11-05T05:01:42.195754+00:00"}
+{"type": "response", "text": "Good Morning!", "timestamp": "2025-11-05T05:23:40.488905+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-05T05:23:40.504086+00:00"}
+{"type": "command", "text": "play music", "timestamp": "2025-11-05T05:23:53.421360+00:00"}
+{"type": "response", "text": "Songs found: ['Kaal Mulaitha Poovae Ringtone.mp3', 'Poopol Poopol.mp3', 'Vaseegara En Nenjinikka.mp3', 'Venmathi Venmathiye.mp3']", "timestamp": "2025-11-05T05:23:53.423136+00:00"}
+{"type": "response", "text": "Playing music.", "timestamp": "2025-11-05T05:24:05.384291+00:00"}
+{"type": "command", "text": "stop music", "timestamp": "2025-11-05T05:24:10.622334+00:00"}
+{"type": "response", "text": "Music stopped.", "timestamp": "2025-11-05T05:24:10.625249+00:00"}
+{"type": "command", "text": "exit", "timestamp": "2025-11-05T05:24:15.646493+00:00"}
+{"type": "response", "text": "Goodbye!", "timestamp": "2025-11-05T05:24:15.647816+00:00"}
+{"type": "response", "text": "User data saved.", "timestamp": "2025-11-05T05:24:16.832639+00:00"}
+{"type": "response", "text": "Configuration saved.", "timestamp": "2025-11-05T05:24:18.623769+00:00"}
+{"type": "response", "text": "Good Afternoon!", "timestamp": "2025-11-09T08:58:05.321600+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-09T08:58:05.337701+00:00"}
+{"type": "command", "text": "text what", "timestamp": "2025-11-09T08:58:17.598497+00:00"}
+{"type": "command", "text": "text mode", "timestamp": "2025-11-09T08:58:27.885937+00:00"}
+{"type": "response", "text": "Entering text mode. Type commands into the terminal. Type \"stop text\" to return to voice mode.", "timestamp": "2025-11-09T08:58:27.888396+00:00"}
+{"type": "response", "text": "Creating a new event. What is the title?", "timestamp": "2025-11-09T08:58:44.888549+00:00"}
+{"type": "command", "text": "lab exam", "timestamp": "2025-11-09T08:58:54.674513+00:00"}
+{"type": "response", "text": "When is the event? Please provide a date and time, for example \"2025-10-25 18:30\" or \"tomorrow 7 pm\".", "timestamp": "2025-11-09T08:58:54.675964+00:00"}
+{"type": "command", "text": "25 10 25 11 38", "timestamp": "2025-11-09T08:59:15.023042+00:00"}
+{"type": "response", "text": "Any description for the event?", "timestamp": "2025-11-09T08:59:15.056075+00:00"}
+{"type": "command", "text": "it was important to me", "timestamp": "2025-11-09T08:59:22.518754+00:00"}
+{"type": "response", "text": "Events saved.", "timestamp": "2025-11-09T08:59:22.520007+00:00"}
+{"type": "calendar", "action": "create", "event": {"id": "2", "title": "lab exam", "when": null, "description": "it was important to me"}, "timestamp": "2025-11-09T08:59:24.077647+00:00"}
+{"type": "response", "text": "Event \"lab exam\" created.", "timestamp": "2025-11-09T08:59:24.078244+00:00"}
+{"type": "response", "text": "Good Evening!", "timestamp": "2025-11-09T13:32:23.080790+00:00"}
+{"type": "response", "text": "I am your assistant. Please tell me how may I help you.", "timestamp": "2025-11-09T13:32:23.094255+00:00"}
+{"type": "command", "text": "battery status", "timestamp": "2025-11-09T13:32:33.764565+00:00"}
+{"type": "response", "text": "Battery at 81.0 percent and charging.", "timestamp": "2025-11-09T13:32:33.814344+00:00"}
+{"type": "command", "text": "battery status", "timestamp": "2025-11-09T13:32:45.374960+00:00"}
+{"type": "response", "text": "Battery at 81.0 percent and charging.", "timestamp": "2025-11-09T13:32:45.418042+00:00"}

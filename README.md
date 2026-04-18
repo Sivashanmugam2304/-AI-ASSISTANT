@@ -40,7 +40,7 @@ Action Execution → Response Generation → Logging & Storage
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/ai-assistant.git
+git clone https://github.com/Sivashanmugam2304/ai-assistant.git
 
 # Navigate into the folder
 cd ai-assistant

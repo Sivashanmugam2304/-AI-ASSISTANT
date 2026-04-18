@@ -48,6 +48,10 @@ cd ai-assistant
 # Install dependencies
 pip install -r requirements.txt
 
+
+#Note: Some packages like PyAudio might need additional system libraries on Linux. If someone has trouble installing, they may need to run:
+sudo apt-get install portaudio19-dev python3-pyaudio
+
 # Run the assistant
 python3 voice_assistant.py
 ```

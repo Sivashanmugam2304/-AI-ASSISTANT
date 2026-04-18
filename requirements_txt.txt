@@ -1,0 +1,26 @@
+# Voice Assistant Project - Requirements File
+# Install all packages using: pip install -r requirements.txt
+
+# Text-to-Speech Engine
+pyttsx3==2.90
+
+# Speech Recognition
+SpeechRecognition==3.10.0
+
+# Audio I/O
+PyAudio==0.2.14
+
+# Wake Word Detection
+pvporcupine==3.0.2
+
+# Music Player
+python-vlc==3.0.21203
+
+# Sound Effects and Audio
+pygame==2.6.0
+
+# Wikipedia API
+wikipedia==1.4.0
+
+# HTTP Requests for Weather API
+requests==2.31.0
